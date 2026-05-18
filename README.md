@@ -50,7 +50,7 @@ Train/test split: pre-2023/24 seasons for training (1,048 rows), 2023/24 onward 
 
 ```
 .
-├── BBL_Home_Advantage_Model.ipynb # Main modelling notebook (M1–M5, feature engineering)
+├── Home_win_model (1).ipynb       # Main modelling notebook (M1–M5, feature engineering)
 ├── BBL_Extended_Analysis.ipynb    # Extended analysis (toss, innings phase, DRS, robustness)
 ├── BBL_Data_Quality_Check.ipynb   # Data cleaning and quality checks
 ├── report_project_b.tex           # Final report (LaTeX source)
@@ -98,7 +98,7 @@ install.packages("lme4")
 
 1. Place raw Cricsheet JSON files in `bbl_json/`.
 2. Run `BBL_Data_Quality_Check.ipynb` to clean the data.
-3. Run `BBL_Home_Advantage_Model.ipynb` to reproduce M1–M5 and all figures.
+3. Run `Home_win_model (1).ipynb` to reproduce M1–M5 and all figures.
 4. Run `BBL_Extended_Analysis.ipynb` for toss, innings-phase, DRS, and robustness analyses.
 
 ---
