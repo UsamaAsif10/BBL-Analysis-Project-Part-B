@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data (download from cricsheet.org)
+bbl_json/
+
+# Zip files
+*.zip
+
+# Mac system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# LaTeX build artifacts
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
