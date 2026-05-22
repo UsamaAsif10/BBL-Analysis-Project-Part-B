@@ -10,6 +10,13 @@ Analysis of home-ground advantage in the Big Bash League (BBL) across 14 seasons
 
 ---
 
+## Related
+
+This is **Part B** of a two-part BBL data science project.
+See [Part A — BBL Analysis for Data Science Project A](https://github.com/UsamaAsif10/BBL-Analysis-for-Data-Science-project-A) for the initial analysis.
+
+---
+
 ## Research Questions
 
 1. How large is the raw home advantage in the BBL across the 14 seasons in the dataset?
